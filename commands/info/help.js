@@ -14,7 +14,7 @@ module.exports = {
       .setColor(Color)
       .setTitle(`${client.user.username} Commands!`)
       .setDescription(
-        `Use ${Prefix}Help <Command Name> For More Command Information!` +
+        `` +
           "\n\n**★Fun: **\n`Avatar, Coinflip, Howgay, Meme, Rate, 8ball, Dicksize, Ascii, Hack, Randomnumber, ytsearch, gsearch, creatememe, question, kiss, slap, waifu, tinder, trigger, say, buzz, miss,  relationship, sad, rip, kill, enemoji (enlarge emoji), td(thruth or dare), invert, hug, thanks, welcome, stonk, water, love, shy, poke, care, sorry, wiki, cat, dog, eject`" +
           "\n\n" +
           "**★Moderation: **\n`Clear, Mute, Unmute, Tempmute, Kick, Ban, Unban, Tempban, Warn, Warnings, addemoji`" +
@@ -27,7 +27,7 @@ module.exports = {
           "\n\n" +
           "**★Economy Commands:** \n`E$help for Economy Commands`" +
           "\n\n" +
-          "**★Reaction roles: ** \n`r.help for reaction roles commands`" +
+          "**★Reaction roles: ** \n`R$help for reaction roles commands`" +
           "\n\n" +
           "**★Ticket system: ** \n`$ticket-setup #channel \nfor setting up ticket channel\n$close for closing a ticket`" +
           "\n\n" +
