@@ -29,6 +29,8 @@ module.exports = {
           "\n\n" +
           "**★Reaction roles: ** \n`r.help for reaction roles commands`" +
           "\n\n" +
+          "**★Ticket system: ** \n`$ticket-setup #channel \nfor setting up ticket channel\n$close for closing a ticket`" +
+          "\n\n" +
           "**★Others: ** \n`1. W$help for welcome setup!, Leave$help for exit setup!\nNote: welcome and leave are beta commands\n\n2. Invite\n\n3. Report(In case of any problem with bot)`"
       )
       .setFooter(`By Krezy`)
